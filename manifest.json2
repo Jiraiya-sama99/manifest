@@ -1,0 +1,39 @@
+{
+  "name": "Kisah Jiraiya",
+  "short_name": "Kisah Jiraiya",
+  "scope": "https://kisah-jiraiya.blogspot.com/",
+  "start_url": "https://kisah-jiraiya.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog yang berisi tentang kisah para shinobi pada anime dan manga Naruto yang sebagian besar serinya mengisahkan novel karya dari Jiraiya-sama",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-K4nnXXVSd1U/YG8cjKksGHI/AAAAAAAAAAc/AwH_laxj2-EAIBKuwloXn80lT5KU8lOvQCLcBGAsYHQ/s48/icon-kisahjiraiya-512x512.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K4nnXXVSd1U/YG8cjKksGHI/AAAAAAAAAAc/AwH_laxj2-EAIBKuwloXn80lT5KU8lOvQCLcBGAsYHQ/s72/icon-kisahjiraiya-512x512.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K4nnXXVSd1U/YG8cjKksGHI/AAAAAAAAAAc/AwH_laxj2-EAIBKuwloXn80lT5KU8lOvQCLcBGAsYHQ/s96/icon-kisahjiraiya-512x512.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K4nnXXVSd1U/YG8cjKksGHI/AAAAAAAAAAc/AwH_laxj2-EAIBKuwloXn80lT5KU8lOvQCLcBGAsYHQ/s144/icon-kisahjiraiya-512x512.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K4nnXXVSd1U/YG8cjKksGHI/AAAAAAAAAAc/AwH_laxj2-EAIBKuwloXn80lT5KU8lOvQCLcBGAsYHQ/s168/icon-kisahjiraiya-512x512.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K4nnXXVSd1U/YG8cjKksGHI/AAAAAAAAAAc/AwH_laxj2-EAIBKuwloXn80lT5KU8lOvQCLcBGAsYHQ/s192/icon-kisahjiraiya-512x512.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K4nnXXVSd1U/YG8cjKksGHI/AAAAAAAAAAc/AwH_laxj2-EAIBKuwloXn80lT5KU8lOvQCLcBGAsYHQ/s512/icon-kisahjiraiya-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
